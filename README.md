@@ -1,0 +1,1 @@
+# Embed C/CPP objects
