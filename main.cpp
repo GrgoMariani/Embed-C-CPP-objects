@@ -2,8 +2,8 @@
 #include <string>
 #include <cstddef>
 
-extern const char  e_obj[];
-extern const size_t e_obj_size;
+extern const char   e_obj[];
+extern const int    e_obj_size;
 
 
 int main(){
